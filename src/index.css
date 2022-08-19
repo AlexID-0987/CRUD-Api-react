@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+td{
+  text-align: center;
+}
+.imageLeon{
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+.imageLeon img{
+  width:100%
+}
+.card{
+  width: 180px;
+  height: 200px;
+ text-align: center;
+  margin: 1em;
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 2em;
+  justify-content: center;
+}
